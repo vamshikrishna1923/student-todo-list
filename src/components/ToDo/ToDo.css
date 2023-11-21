@@ -1,0 +1,12 @@
+.todo{
+    margin-top: 5px;
+}
+.completed{
+    color: white;
+    text-decoration: line-through;
+    background-color:#5cb85c;
+}
+#deleteBtn{
+    height: 90%;
+    width: 100%;
+}

@@ -1,0 +1,13 @@
+.App{
+  height: 100vh;
+  background: linear-gradient(90deg, #004e92,#000428);
+}
+
+.title{
+  color: white;
+  padding-top: 2rem;
+  font-family: 'Recursive','Roboto', sans-serif;
+  font-size: 2rem;
+  text-align: center;
+  padding-bottom: 2rem;
+}
